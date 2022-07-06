@@ -1,0 +1,32 @@
+body
+{
+    background-color: aquamarine;
+}
+
+form input
+{
+    justify-content: center;
+    background: NONE;
+    border-radius: 5px;
+}
+
+form label
+{
+    display: flex;
+    justify-content: center; 
+}
+
+form textarea
+{
+    background: none;
+}
+
+.red
+{
+    color: red;
+}
+
+.cache
+{
+    display: none;
+}
